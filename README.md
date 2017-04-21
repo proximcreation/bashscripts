@@ -5,5 +5,5 @@ All jpg will be crushed to 60% and non opaque png will be converted into jpg if 
 
 The script generate a ../___reduce_outputs/rename_list.txt with a list of png files turned into jpg.
 
-## example ok usage
+### example of usage
 Reduce image bandwidth usage on a website filetree.
